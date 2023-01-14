@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubunter/Desktop/study/C_plus_plus/OTUS/Hello_World/homework/move_me_out.cpp
+iostream
+-
+move_me_out.h
+/home/ubunter/Desktop/study/C_plus_plus/OTUS/Hello_World/homework/move_me_out.h
+
+/home/ubunter/Desktop/study/C_plus_plus/OTUS/Hello_World/homework/move_me_out.h
+

@@ -1,0 +1,3 @@
+/home/ubunter/Desktop/study/C_plus_plus/OTUS/Hello_World/hello/build/CMakeFiles/rebuild_cache.dir
+/home/ubunter/Desktop/study/C_plus_plus/OTUS/Hello_World/hello/build/CMakeFiles/edit_cache.dir
+/home/ubunter/Desktop/study/C_plus_plus/OTUS/Hello_World/hello/build/CMakeFiles/hello.dir
